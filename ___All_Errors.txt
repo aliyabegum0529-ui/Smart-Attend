@@ -1,0 +1,7 @@
+CorrelationId: 437a2b0b-72d4-4294-82d7-e49d88f48248
+UTC DateTime: 10/06/2026 15:54:04
+
+The following files/folders have not been downloaded
+0. frontend/node_modules/@babel/generator/lib/node
+1. frontend/node_modules/lucide-react/dist/esm/icons/bridge.mjs
+2. frontend/node_modules/lucide-react/dist/esm/icons/bridge.mjs.map

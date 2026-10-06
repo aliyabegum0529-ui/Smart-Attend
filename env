@@ -1,0 +1,15 @@
+# SmartAttend Environment Variables
+PROJECT_NAME="SmartAttend"
+ENVIRONMENT="development"
+SECRET_KEY="smartattend-secure-dev-secret-key-change-in-production"
+ALGORITHM="HS256"
+ACCESS_TOKEN_EXPIRE_MINUTES=1440
+
+# Campus Default Coordinates (St. Jude Institute of Technology / Demo Campus)
+CAMPUS_NAME="Apex Institute of Technology"
+CAMPUS_LAT=12.971598
+CAMPUS_LNG=77.594566
+CAMPUS_RADIUS_METERS=150.0
+
+# Database
+DATABASE_URL="sqlite:///./backend/data/smartattend.db"
